@@ -1,1 +1,3 @@
-# SpotiFLAC-Next
+Get Spotify tracks in true FLAC format — no account required.
+
+### 🚧 Work in Progress...
