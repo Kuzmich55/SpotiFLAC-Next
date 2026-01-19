@@ -5,3 +5,9 @@
 
 > [!TIP]
 > **Star Us**, You will receive all release notifications from GitHub without any delay ~
+
+# Preview
+
+> We’re still at about 10% progress
+
+![SpotiFLAC-Next-dev_puJa6b2jG1](https://github.com/user-attachments/assets/ab17906a-c11c-473e-866f-fd691cf63d2f)
