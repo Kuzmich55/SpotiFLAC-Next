@@ -7,7 +7,7 @@
 > The repository [https://github.com/afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) **is back** and has been updated.
 > You can continue using the current version as usual.
 >
-> **SpotiFLAC Next** (the next-generation version) is a separate project and is currently available exclusively to Ko-fi supporters.
+> **SpotiFLAC Next** (the next-generation version) is a separate project and is currently available exclusively to **Ko-fi supporters.**
 
 > [!NOTE]
 > **SpotiFLAC Next** introduces major improvements that are not available in the current version, including:
@@ -16,11 +16,41 @@
 > * Extension support
 > * Workflow and pipeline configuration
 > * Instance and credential management
->
-> These features are part of **SpotiFLAC Next** and are **currently reserved for Ko-fi supporters**.
 
+## Tech Stack
+
+| Component | Technology |
+|-----------|------------|
+| **SpotiFLAC** | TypeScript, React, Go |
+| **SpotiFLAC Next** | TypeScript, Svelte, Go, TagLib |
+
+## Feature Comparison
+
+| Feature | SpotiFLAC | SpotiFLAC Next |
+|---------|-----------|----------------|
+| **Track Fetching** | Spotify Web | Spotify Web, Spotify API |
+| **Link Resolver** | Songlink | Songlink, IDHS |
+| **Metadata Provider** | Spotify Web | Spotify Web, Spotify API, Deezer API, Tidal API, Qobuz API |
+| **Lyrics Provider** | LRCLIB | Spotify Web, Musixmatch, LRCLIB |
+| **Downloader** | Tidal, Qobuz, Amazon Music (Unstable) | Tidal, Qobuz, Amazon Music (Stable), Deezer |
+
+## Roadmap
+
+### Completed
+- [x] Home (Fetch/Search)
+- [x] Extensions
+- [x] Workflow
+
+### In Progress / Planned
+- [ ] History
+- [ ] Audio Quality Analyzer
+- [ ] Audio Converter
+- [ ] File Manager
+- [ ] Debug Logs
+- [ ] Settings
+      
 # Preview
 
-> We’re still at about 57% progress
+> We’re still at about 60% progress
 
 ![SpotiFLAC-Next](https://github.com/user-attachments/assets/5bce2a61-e19e-4b36-ba3a-22afe4f24e25)
