@@ -17,12 +17,12 @@
 > * Workflow and pipeline configuration
 > * Instance and credential management
 
-## Tech Stack
+## Stack
 
 **SpotiFLAC:** TypeScript, React, Go  
 **SpotiFLAC Next:** TypeScript, Svelte, Go, TagLib
 
-## Feature Comparison
+## Comparison
 
 | Feature | SpotiFLAC | SpotiFLAC Next |
 |---------|-----------|----------------|
@@ -47,7 +47,7 @@
 - [ ] Debug Logs
 - [ ] Settings
       
-# Preview
+## Preview
 
 > We’re still at about 60% progress
 
