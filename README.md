@@ -45,7 +45,7 @@
 - [ ] Audio Converter
 - [ ] File Manager
 - [ ] Debug Logs
-- [ ] Settings
+- [ ] Settings - 27%
       
 ## Preview
 
