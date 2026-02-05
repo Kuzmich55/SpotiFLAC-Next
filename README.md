@@ -28,7 +28,7 @@
 |---------|-----------|----------------|
 | **Track Fetching** | Spotify Web | Spotify Web, Spotify API |
 | **Link Resolver** | Songlink | Songlink, IDHS |
-| **Metadata Provider** | Spotify Web | Spotify Web, Spotify API, Deezer API, Tidal API, Qobuz API |
+| **Metadata Provider** | Spotify Web | Spotify Web, Spotify API, Deezer API, Tidal API, Qobuz API, MusicBrainz |
 | **Lyrics Provider** | LRCLIB | Spotify Web, Musixmatch, LRCLIB |
 | **Downloader** | Tidal, Qobuz, Amazon Music (Unstable) | Tidal, Qobuz, Amazon Music (Stable), Deezer |
 
@@ -49,7 +49,7 @@
       
 ## Preview
 
-> We’re still at about 62% progress
+> We’re still at about 64% progress
 
 ![SpotiFLAC-Next-dev_eqsRRBvoJU](https://github.com/user-attachments/assets/c159f04f-35b3-45ff-8dbc-4bb15f232eb6)
 
