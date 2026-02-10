@@ -14,6 +14,15 @@
 >
 > **SpotiFLAC Next** is a separate next-generation project that is still under active development. Once released, it will be available exclusively to supporters on Ko-fi or Buy Me a Coffee. A public release has not yet been determined.
 
+<a href="https://ko-fi.com/afkarxyz">
+  <img src="assets/kofi.svg" width="120" alt="Ko-fi" />
+</a>&nbsp;
+<a href="https://www.buymeacoffee.com/afkarxyz">
+  <img src="assets/bmc.svg" width="120" alt="Buy Me a Coffee" />
+</a>
+
+#
+
 > [!NOTE]
 > **SpotiFLAC Next** introduces major improvements that are not available in the current version, including:
 >
