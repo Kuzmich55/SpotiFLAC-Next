@@ -12,7 +12,7 @@
 > The repository [https://github.com/afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) **is back** and has been updated.
 > You can continue using the current version as usual.
 >
-> **SpotiFLAC Next** (the next-generation version) is a separate project and is currently available exclusively to **Ko-fi supporters.**
+> **SpotiFLAC Next** (the next-generation version) is a separate project and is currently available exclusively to **supporters.**
 
 > [!NOTE]
 > **SpotiFLAC Next** introduces major improvements that are not available in the current version, including:
