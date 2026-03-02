@@ -28,33 +28,13 @@ Get Spotify tracks in Hi-Res lossless FLACs — no account required.
 | Feature | SpotiFLAC | SpotiFLAC Next |
 |---------|-----------|----------------|
 | **Track Fetching** | Spotify Web | Spotify Web |
-| **Link Resolver** | Songlink | Songlink, Odesli, IDHS |
+| **Link Resolver** | Songlink | Songlink |
 | **Metadata Provider** | Spotify Web | Spotify Web, Deezer API, Tidal API, Qobuz API |
 | **Lyrics Provider** | Spotify Web, LRCLIB | Spotify Web, Musixmatch, LRCLIB |
-| **Downloader** | Tidal, Qobuz (Down), Amazon Music (Slowly), Deezer (Down) | Tidal, Qobuz, Amazon Music, Deezer |
-
-## Roadmap
-
-### Completed
-- [x] Home (Fetch/Search)
-- [x] Extensions
-- [x] Workflow
-
-### In Progress
-- [ ] History
-- [ ] Debug Logs
-- [ ] Settings - 27%
-
-### Queued
-- [ ] Audio Quality Analyzer
-- [ ] Audio Converter
-- [ ] File Manager
-      
+| **Downloader** | Tidal, Qobuz (Down), Amazon Music (Slowly) | Tidal, Qobuz, Amazon Music, Deezer |
+     
 ## Preview
 
-> We’re still at about 65% progress
+> We’re still at about 70% progress
 
-![SpotiFLAC-Next-dev_XqWmPRapRs](https://github.com/user-attachments/assets/13279d92-97c5-42e2-9ec0-14e8da887aec)
-
-![SpotiFLAC-Next-dev_X7gnKKQYRV](https://github.com/user-attachments/assets/741982df-57da-487b-be72-02726a15ed41)
-
+![img](https://github.com/user-attachments/assets/13d987a6-25ac-49a1-ba04-91a315e296ed)
