@@ -31,7 +31,7 @@ Get Spotify tracks in Hi-Res lossless FLACs — no account required.
 | **Link Resolver** | Songlink | Odesli |
 | **Metadata Provider** | Spotify Web, MusicBrainz | Spotify Web, MusicBrainz, Deezer API, Tidal API, Qobuz API |
 | **Lyrics Provider** | LRCLIB | Spotify Web, Musixmatch, LRCLIB |
-| **Downloader** | Tidal, Qobuz (Down), Amazon Music (Slowly) | Tidal, Qobuz, Amazon Music, Deezer |
+| **Downloader** | Tidal, Qobuz, Amazon Music (Slowly) | Tidal, Qobuz, Amazon Music, Deezer |
      
 ## Preview
 
